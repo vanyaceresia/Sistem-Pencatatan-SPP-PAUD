@@ -1,9 +1,9 @@
 # 💰SISTEM INFORMASI SPP PAUD💰
 Sistem ini berisi fitur untuk melakukan pencatatan pembayaran SPP pada tingkat PAUD dengan menggunakan php 7.1.3
 # ⚙️Requirement⚙️
-1. XAMPP 7.1.3
+1. XAMPP 7.1.3 (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/)
 
-2. Composer
+2. Composer (https://getcomposer)
 # ⚙️Flowchart⚙️
 ![Flowchart SIA](https://github.com/vanyaceresia/Sistem-Pencatatan-SPP-PAUD/assets/152596005/b5c498fc-33f4-4e1a-ba7e-d57643d473dc)
 
