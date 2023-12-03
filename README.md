@@ -1,6 +1,7 @@
 # Sistem Informasi SPP PAUD
 Sistem ini berisi fitur untuk melakukan pencatatan pembayaran SPP pada tingkat PAUD dengan php 7.1.3
 # Flowchart
+![Flowchart SIA](https://github.com/vanyaceresia/Sistem-Pencatatan-SPP-PAUD/assets/152596005/b5c498fc-33f4-4e1a-ba7e-d57643d473dc)
 
 # Database 
 ![Screenshot (501)](https://github.com/vanyaceresia/Sistem-Pencatatan-SPP-PAUD/assets/152596005/9b369d38-f9d9-4829-a44b-794522b75a42)
