@@ -1,4 +1,4 @@
-# 💰SISTEM INFORMASI SPP PAUD💰
+# 💸SISTEM INFORMASI AKUNTANSI SPP PAUD💸
 Sistem ini berisi fitur untuk melakukan pencatatan pembayaran SPP pada tingkat PAUD dengan menggunakan php 7.1.3
 # ⚙️Requirement⚙️
 1. XAMPP 7.1.3 (https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/)
@@ -13,7 +13,7 @@ Sistem ini berisi fitur untuk melakukan pencatatan pembayaran SPP pada tingkat P
 # ⚙️Structure⚙️
 ![Screenshot (500)](https://github.com/vanyaceresia/Sistem-Pencatatan-SPP-PAUD/assets/152596005/d7b91bed-bd33-4914-b879-7ab2923878a1)
 
-# ⚙️Langkah-Langkah⚙️
+# ⚙️Installation⚙️
 Clone the repository
 ```
 git clone https://github.com/ajikamaludin/spp-paud.git
@@ -39,5 +39,5 @@ Start the local development server
 php artisan serve
 ```
 
-# ⚙️Tampilan⚙️
+# ⚙️Display⚙️
 ![Screenshot (502)](https://github.com/vanyaceresia/Sistem-Pencatatan-SPP-PAUD/assets/152596005/1615d299-5bb7-4c54-bf39-df6b1292ee54)
